@@ -1,4 +1,5 @@
 # Stock Market Prediction
+
 ## DATASET
 - Remote access : [Tiingo](https://www.tiingo.com/) [API](https://api.tiingo.com/documentation/general/overview) is used to get data of the stocks of previous 5 years, with symbol as AAPL for Apple and GOOG/GOOGL for Google class C/A. To get started with data we need a unique API key(provided to every user).
 
